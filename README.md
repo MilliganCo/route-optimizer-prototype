@@ -1,5 +1,7 @@
 # Route Optimizer Prototype
 
+> Public experimental source: see [PUBLICATION.md](PUBLICATION.md) for actual checks, known defects, restored modules and operational limits. Earlier audit decisions are historical.
+
 Небольшое desktop-приложение на `tkinter` для расчёта стоимости и времени доставки на основе набора товаров, клиента, склада и транспорта.
 
 ## Статус аудита
